@@ -15,7 +15,7 @@
         <input type="text" name="password" value="" /><br/>
         Enter 8-20 letters and/or
         number;case sensitive<br/>
-        
+        <br/>
         Re-enter password:<br/>
         <input type="text" name="confirmPassword" value="" /><br/>
         <input type="checkbox" name="termsAndConditions" value="ON" disabled="disabled" />
